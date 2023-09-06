@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-template",
+  "version": "1.0.0",
+  "description": "Node.js template with npm for codespaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swanspire/nodejs-npm-template.git"
+  },
+  "author": "Swanspire <swanspire@lond.one>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swanspire/nodejs-npm-template/issues"
+  },
+  "homepage": "https://github.com/swanspire/nodejs-npm-template#readme"
+}
